@@ -26,5 +26,39 @@
     display: flex;
     justify-content:center;
     align-items: center;
-
-
+    text-align: center;
+}
+.gap1{ 
+    border:5px;
+    gap: 24px;
+    background-color: #f1c3cd;
+    border-radius: 180px 180px 0px 0px;
+    text-align: center;
+}
+.gap2{
+    border:5px;
+    gap: 24px;
+    background-color: #bafcff;
+    border-radius: 180px 180px 0px 0px;
+    text-align: center; 
+}
+.gap3{
+    border:5px;
+    gap: 24px;
+    background-color: #abbd99;
+    border-radius: 180px 180px 0px 0px;
+    text-align: center; 
+    
+}
+.colum-3rd{
+    display:flex;
+    justify-content:center;
+    gap: 50px;
+   
+}
+.border-colum{
+    padding: 130px;
+    border-radius:10px;
+    background-color:#aba9a9;
+    margin: 130px 0;
+}
