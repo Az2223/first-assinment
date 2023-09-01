@@ -1,0 +1,24 @@
+.main-flix{
+    
+}
+.brt-primary{
+    background-color:#E55473 ;
+    margin:0px;
+    border-radius:5px;
+}
+.image{width="100px"}
+.content-one{
+    background-color:#f5d7dd;
+    padding:20px;
+    display:flex; 
+    justify-content: space-around;
+    height: 100vh;
+    align-items:center;
+    border: 2px solid gray;
+}
+.h2title-two{
+    text-align: center;
+}
+.p2title-two{
+    text-align: center;
+}
