@@ -87,7 +87,7 @@
     display: flex;
     justify-content:center;
     align-items: center;
-    text-align: center
+    text-align: center;
 }
 .skils--description{
     padding: 30px;
@@ -100,4 +100,33 @@
 }
 .title-p{
     text-align: center;
+}
+.form{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.back-groud{
+    background-image: url(image/Rectangle\ 9.png);
+}
+.color-1{
+    color: #E55473;
+}
+.color-2{
+    color:white;
+}
+.copy{
+    color:whitesmoke;
+    text-align: center;
+}
+.backround-color{
+    background-color: black;
+}
+.title-ins1{
+    text-align: center;
+    color: white;
+}
+.title-p1{
+    text-align: center;
+    color: white;
 }
